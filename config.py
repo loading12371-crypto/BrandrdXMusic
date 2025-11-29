@@ -42,15 +42,15 @@ API_KEY = getenv("API_KEY", 'INFLEX93454428D')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Sachi_umlno",
+    "https://github.com/vilen_3r",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sachi_umlno")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sachi_umlno")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/infvibe")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PFP_ST0RE")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -96,21 +96,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/1JpV5F0R/x.jpg"
+    "START_IMG_URL", "https://i.ibb.co/N29Qj5WQ/x.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/1JpV5F0R/x.jpg"
+    "PING_IMG_URL", "https://i.ibb.co/DHKsRjjC/x.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-STATS_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+PLAYLIST_IMG_URL = "https://i.ibb.co/DHKsRjjC/x.jpg"
+STATS_IMG_URL = "https://i.ibb.co/cc8Xsyk2/x.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/vCk377tj/x.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/vCk377tj/x.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/20HYwrL8/x.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/20HYwrL8/x.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/DHKsRjjC/x.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/DHKsRjjC/x.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/DHKsRjjC/x.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/DHKsRjjC/x.jpg"
 
 
 def time_to_seconds(time):
