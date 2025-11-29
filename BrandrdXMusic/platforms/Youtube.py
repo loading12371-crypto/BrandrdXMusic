@@ -23,7 +23,7 @@ import traceback
 from BrandrdXMusic import LOGGER
 
 API_URL = "https://teaminflex.xyz"  # Change to your API server URL
-API_KEY = "INFLEX93454428D"
+API_KEY = "xbit_4OF5903FJCOMQPTOKCASCY"
 
 def cookie_txt_file():
     cookie_dir = f"{os.getcwd()}/cookies"
