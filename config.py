@@ -49,8 +49,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PFP_ST0RE")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/infvibe")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Sachi_umlno")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Sachi_umlno")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -96,21 +96,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/LdzKKGzk/x.jpg"
+    "START_IMG_URL", "https://i.ibb.co/1JpV5F0R/x.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/twj0NL4L/x.jpg"
+    "PING_IMG_URL", "https://i.ibb.co/1JpV5F0R/x.jpg"
 )
-PLAYLIST_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-STATS_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/twj0NL4L/x.jpg"
+PLAYLIST_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+STATS_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/1JpV5F0R/x.jpg"
 
 
 def time_to_seconds(time):
