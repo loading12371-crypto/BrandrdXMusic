@@ -37,7 +37,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 API_URL = getenv("API_URL", 'https://teaminflex.xyz')
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'INFLEX93454428D')
+API_KEY = getenv("API_KEY", 'xbit_4OF5903FJCOMQPTOKCASCY')
  
 
 UPSTREAM_REPO = getenv(
